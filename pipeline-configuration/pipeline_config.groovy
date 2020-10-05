@@ -1,4 +1,0 @@
-libraries{
-    merge = true
-    sonarqube
-}
